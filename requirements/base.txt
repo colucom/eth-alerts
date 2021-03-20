@@ -27,7 +27,7 @@ ethereum-utils==0.2.0
 factory-boy==2.5.2
 fake-factory==0.5.3
 itypes==1.1.0
-Jinja2==2.9.5
+Jinja2==2.11.3
 json-rpc==1.10.3
 kombu==3.0.37
 MarkupSafe==0.23
