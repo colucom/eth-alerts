@@ -19,7 +19,7 @@ django-mail-templated==2.6.5
 django-model-utils==2.6.1
 django-rest-swagger==2.1.1
 django-solo==1.1.2
-djangorestframework==3.5.4
+djangorestframework==3.11.2
 eth-testrpc==1.1.1
 ethereum==1.6.0
 ethereum-abi-utils==0.4.0
